@@ -16,3 +16,8 @@ Datasets:
           
 Abstract: 
           
+Best Neighborhood based on Traffic: Central Northside
+Best Neighborhood based on Parking: Greenfield
+Best Neighborhood based on Walking: Shadyside
+Best overall Neighborhood: Shadyside 
+Reasoning: Compared to traffic and parking, walking requires no payment, stress, or car for that matter. Plus as stated, there are several benefits to walking. We felt as the benefits of walking outweighed the other two datasets, therefore making it our best neighborhood. Furthermore, Shadyside had a relatively low traffic score which helped persuade us to pick it as our overall best neighborhood. Although it would be nice to live in the neighborhood with the least traffic or most parking, it’s probably better to walk in a neighborhood where you feel safe and connected with your neighbors and community. 
