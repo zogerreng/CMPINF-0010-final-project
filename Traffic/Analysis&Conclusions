@@ -1,1 +1,13 @@
-Conclusion: According to traffic data and my own traffic score formula, Squirrel Hill is not the best neighborhood in Pittsburgh. Central Northside takes the crown having a traffic score of only 1.776 compared to Squirrel Hill's 3316.969. At first, I only wanted to do avg traffic / sq miles, but I figured that safety is also a factor when talking about traffic and neighborhoods. I factored in the safety aspect with the % of people over speed limit. With less people over the speed limit, I concluded it was a safer neighborhood. Some of you may have also noticed that Police zones were not present in the formula, but I couldn't find a good way to integrate it and felt it was a little useless. I decided to just use the data and correlate police zones to sq miles and % over speed limit for fun to see if there was overlap. Overall, I didn't find much correlation between police zones, sq miles, and % over speed limit that warranted mentioning.
+Conclusion: According to traffic data and my own traffic score formula, 
+Squirrel Hill is not the best neighborhood in Pittsburgh. 
+Central Northside takes the crown having a traffic score of
+only 1.776 compared to Squirrel Hill's 3316.969. 
+At first, I only wanted to do avg traffic / sq miles, but I figured 
+that safety is also a factor when talking about traffic and neighborhoods. 
+I factored in the safety aspect with the % of people over speed limit. With 
+less people over the speed limit, I concluded it was a safer neighborhood. 
+Some of you may have also noticed that Police zones were not present in the formula, 
+but I couldn't find a good way to integrate it and felt it was a little useless.
+I decided to just use the data and correlate police zones to sq miles and % over 
+speed limit for fun to see if there was overlap. Overall, I didn't find much 
+correlation between police zones, sq miles, and % over speed limit that warranted mentioning.
