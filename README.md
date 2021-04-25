@@ -25,8 +25,7 @@ information is good in determining the best neighborhood as it will tell you whe
 paying for parking when visiting that location. 
                            
 **Walking**: https://data.wprdc.org/dataset/allegheny-county-walk-scores   
-Description: This dataset shows the walks scores of each neighborhood in Allegheny county. The walk scores are calculated   
-based on the distance to different amentities. 
+Description: This dataset shows the walks scores of each neighborhood in Allegheny county. The walk scores are calculated based on the distance to different amentities. 
           
 ## Abstract: 
    
